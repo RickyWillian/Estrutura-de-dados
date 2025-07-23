@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1751637781 source:c:\users\ricky\onedrive\Área de trabalho\trabalho_ed1\ex2\ex2\user.c
+	<stdio.h>
+	"ponto.h"
+
+1751637238 c:\users\ricky\onedrive\Área de trabalho\trabalho_ed1\ex2\ex2\ponto.h
+
+1751638405 source:c:\users\ricky\onedrive\Área de trabalho\trabalho_ed1\ex2\ex2\ponto.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"ponto.h"
+

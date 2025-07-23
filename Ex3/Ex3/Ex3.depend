@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1751888673 source:c:\users\ricky\onedrive\Área de trabalho\trabalho_ed1\ex3\ex3\esfera.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"esfera.h"
+	"ponto.h"
+
+1751888014 c:\users\ricky\onedrive\Área de trabalho\trabalho_ed1\ex3\ex3\esfera.h
+	"ponto.h"
+
+1751637238 c:\users\ricky\onedrive\Área de trabalho\trabalho_ed1\ex3\ex3\ponto.h
+

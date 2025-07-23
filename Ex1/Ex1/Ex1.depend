@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1751619136 source:c:\users\ricky\onedrive\Área de trabalho\trabalho_ed1\ex1\ex1\complexo.c
+	<stdio.h>
+	<stdlib.h>
+	"complexo.h"
+
+1751619386 c:\users\ricky\onedrive\Área de trabalho\trabalho_ed1\ex1\ex1\complexo.h
+

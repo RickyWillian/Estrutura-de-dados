@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1753260608 source:c:\users\ricky\onedrive\Área de trabalho\trabalho_ed1\listra estatica-sequencial\est_seq_ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list_beb.h"
+
+1753264011 c:\users\ricky\onedrive\Área de trabalho\trabalho_ed1\listra estatica-sequencial\est_seq_ex2\list_beb.h
+
